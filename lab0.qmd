@@ -1,0 +1,19 @@
+---
+title: "Lab #0: Test"
+author: "YOUR NAME HERE"
+date: "DATE HERE"
+editor:
+  mode: source
+---
+
+If you're able to see this file in RStudio (and edit it), congratulations! Please work on the single question below.
+
+###### Question 1
+
+Using the `paste()` function, input "Hello World" within the parentheses and write out the code below in the gray chunk.
+
+```{r unnamed-chunk-3}
+
+```
+
+Once finished, please save the document by clicking the Save button above. Then, return to the Getting Started instructions to learn how to commit and push you code. 
